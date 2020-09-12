@@ -19,3 +19,7 @@ Explanation:
 
 
 
+One just a problem head up, it remains with original extentions name `zip sample.txt.zip` with `.txt` name. What i do in mac or you can use `mv` command to rename files: 
+
+- Select all the files and clicks on rename files and popup window shows up. Find the text and `.txt.zip` to `.zip`.
+
